@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guymaster
 - 👀 I’m interested in : Mobile, Desktop and Web development
 - 🌱 I’m currently learning: Flutter and Web technologies
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me : guymaster25@gmail.com
 
 <!---

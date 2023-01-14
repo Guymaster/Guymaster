@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guymaster
-- 👀 I’m interested in : Mobile, Desktop and Web development
+- 👀 I’m interested in : Mobile, Desktop and Web development, Game development, Back End developement, Artificial intelligence
 - 🌱 I’m currently learning: Flutter and Web technologies
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me : guymaster25@gmail.com
